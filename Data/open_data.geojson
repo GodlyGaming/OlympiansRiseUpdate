@@ -1,54 +1,49 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"bbl": "3066920018",
-			"the_geom": {
-				"type": "MultiPolygon",
-				"coordinates": [
-					[
-						[
-							[-73.96005569077911, 40.630963850647355],
-							[-73.9601274248611, 40.63095772769943],
-							[-73.96013489308709, 40.631008513285295],
-							[-73.96006315895082, 40.6310146371383],
-							[-73.96005569077911, 40.630963850647355]
-						]
-					]
+	"bbl": "3021140019",
+	"the_geom": {
+		"type": "MultiPolygon",
+		"coordinates": [
+			[
+				[
+					[-73.97497076234886, 40.68639574582032],
+					[-73.97505382269682, 40.68627217555862],
+					[-73.9751187123618, 40.686297449916665],
+					[-73.97503529819598, 40.68642154604806],
+					[-73.97497076234886, 40.68639574582032]
 				]
-			},
-			"borough": "BK",
-			"bin": "3368915",
-			"block": "6692",
-			"lot": "18",
-			"des_addres": "803 East 17th Street",
-			"circa": "1",
-			"date_low": "1912",
-			"date_high": "1912",
-			"date_combo": "c. 1912",
-			"alt_date_1": "1958",
-			"alt_date_2": "0",
-			"arch_build": "Seth Cutting (or) Adelsohn & Feinberg",
-			"own_devel": "Stephen Norman",
-			"alt_arch_1": "Donald A. Brown",
-			"alt_arch_2": "0",
-			"style_prim": "Not determined",
-			"style_sec": "0",
-			"style_oth": "0",
-			"mat_sec": "Asphalt Shingles",
-			"mat_prim": "Wood Frame",
-			"mat_third": "0",
-			"mat_four": "0",
-			"mat_other": "0",
-			"use_orig": "Outbuilding, garage",
-			"use_other": "0",
-			"build_type": "Garage",
-			"build_oth": "0",
-			"notes": "0",
-			"build_nme": "0",
-			"hist_dist": "Fiske Terrace-Midwood Park Historic District",
-			"lm_orig": "0",
-			"lm_new": "0"
-		}
-	]
+			]
+		]
+	},
+	"borough": "BK",
+	"bin": "3059275",
+	"block": "2114",
+	"lot": "19",
+	"des_addres": "672 Fulton Street",
+	"circa": "0",
+	"date_low": "1882",
+	"date_high": "1882",
+	"date_combo": "1882",
+	"alt_date_1": "0",
+	"alt_date_2": "0",
+	"arch_build": "Charles A. Snedecker",
+	"own_devel": "Charles A. Cheseborough",
+	"alt_arch_1": "0",
+	"alt_arch_2": "0",
+	"style_prim": "neo-Grec",
+	"style_sec": "0",
+	"style_oth": "0",
+	"mat_sec": "0",
+	"mat_prim": "Cast Iron",
+	"mat_third": "0",
+	"mat_four": "0",
+	"mat_other": "0",
+	"use_orig": "Residential, multi-family",
+	"use_other": "0",
+	"build_type": "Flats Building",
+	"build_oth": "0",
+	"notes": "0",
+	"build_nme": "0",
+	"hist_dist": "Brooklyn Academy of Music Historic District",
+	"lm_orig": "0",
+	"lm_new": "0"
 }
