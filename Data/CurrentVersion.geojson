@@ -1,6 +1,4 @@
-[
-	{
-		"Version": "0.11",
-		"Release": "BETA"
-	}
-]
+  {
+	  "Release":"BETA",
+	  "Version":"0.11"
+  }
